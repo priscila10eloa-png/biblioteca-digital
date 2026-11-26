@@ -58,3 +58,14 @@ flowchart TD
 - O EventBus utiliza o padrão Observer para comunicar os componentes.
 - Os componentes foram separados em arquivos para facilitar a organização.
 - O Tailwind CSS foi utilizado para criar o layout responsivo.
+
+## Capturas de tela
+
+### Versão Desktop
+![Biblioteca Desktop](./desktop.png)
+
+### Versão Mobile
+![Biblioteca Mobile](./mobile.png)
+
+### Modo Escuro
+![Biblioteca Modo Escuro](./dark.png)
